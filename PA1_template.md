@@ -1,7 +1,7 @@
 ---
 title: 'Reproducible Research : Assignment_1'
 author: "Samarkande"
-output: html_document
+output: pdf_document
 ---
 
 ## Introduction
